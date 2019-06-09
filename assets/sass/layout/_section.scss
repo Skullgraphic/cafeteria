@@ -1,0 +1,36 @@
+.container{
+  position: relative;
+  top: -13vh;
+  background-color: #FFFFFF;
+  width: 73vh;
+}
+
+.square_red{
+  background-color: $flame;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 68%;
+  right: 25%;
+}
+
+.square_yellow{
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  top: 40%;
+  right: 50%;
+}
+
+
+.text_main{
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+
+.h1{
+  font-size: $x-large;
+  font-family: $mono;
+}
